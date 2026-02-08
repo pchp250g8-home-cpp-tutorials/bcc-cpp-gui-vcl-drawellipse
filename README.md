@@ -1,1 +1,1 @@
-DrawEllipse. Embarcadero Rad Studio IDE. VCL. 2D Graphics. GUI Application. 
+DrawEllipse. Embarcadero Rad Studio IDE. VCL. 2D Graphics. GDI. GUI Application. 
